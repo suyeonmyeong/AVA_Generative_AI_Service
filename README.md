@@ -4,8 +4,7 @@
 
 **우수상 수상**
 
-![Project Concept](https://github.com/suyeonmyeong/AVA_Generative_AI_Service/blob/main/images/%EC%88%98%EC%83%81_%EA%B2%B0%EA%B3%BC.png)
-
+<img src="https://github.com/suyeonmyeong/AVA_Generative_AI_Service/blob/main/images/%EC%88%98%EC%83%81_%EA%B2%B0%EA%B3%BC.png" alt="Project Concept" width="500"/>
 
 
 ---
